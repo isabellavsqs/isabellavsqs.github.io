@@ -4,10 +4,10 @@
 Build a static Jekyll GitHub user site for `isabellavsqs.github.io`, with `baseurl` empty and URL filters for links. The complete site will live directly in the project root and publish from GitHub Pages’ `main` branch and `/` root.
 
 ## Pages and content
-- **Home:** concise introduction presenting Isabella as an IESE MBA candidate and former BCG consultant working across strategy and social impact.
-- **About:** draw on the supplied documents for her Brazilian/German background, values of generosity and continuous learning, volunteer work, and interests. Leave out intimate family details.
+- **Home:** concise introduction presenting Isabella as an IESE MBA candidate and consultant working across strategy and social impact. Refer to her as a consultant, not a former consultant.
+- **About:** mention her Brazilian roots and that she studied at a German school; do not describe her as German. Draw on the supplied documents for her values, volunteer work, and interests. Leave out intimate family details.
 - **Work Experience:** use the CV as the source of dates, titles, education, and impact figures for BCG, IFC, SMU Investimentos, Mercedes-Benz, and Somos Educação. Include selected examples such as the €80M value-lever model, 200+ FTE organization redesign, €5M project-cost offset, €20M annual margin opportunity, 40% reduction from a €500M bid, and €77M social-impact-linked loan.
-- **Contact:** link to LinkedIn and use the CV email (`isabella.vasques@iese.net`) as the public `mailto:` address, consistent with the user’s consent. Do not publish the phone number.
+- **Contact:** link only to LinkedIn. Do not include an email address or phone number.
 - Use LinkedIn’s public indexed profile details to confirm her IESE MBA candidacy and specialties (energy, infrastructure, financial services, growth and innovation, turnarounds, organization redesign, and pricing). The CV remains authoritative for career history and dates.
 
 ## Design and implementation

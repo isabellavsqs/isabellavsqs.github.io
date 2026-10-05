@@ -1,0 +1,33 @@
+title: Isabella Vasques
+description: Consultant and IESE MBA candidate with experience in strategy, finance, and social impact.
+url: "https://isabellavsqs.github.io"
+baseurl: ""
+lang: en
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - PLAN.md
+  - attached_assets
+  - artifacts
+  - lib
+  - scripts
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - pnpm-lock.yaml
+  - pnpm-workspace.yaml
+  - tsconfig.json
+  - tsconfig.base.json
+  - replit.md
+  - .replit
+  - .replitignore
+  - .gitignore

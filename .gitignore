@@ -7,6 +7,11 @@ out-tsc
 *.tsbuildinfo
 .expo
 .expo-shared
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
 
 # dependencies
 node_modules
@@ -47,3 +52,6 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+
+# Uploaded source documents are private working material, not site assets
+attached_assets/

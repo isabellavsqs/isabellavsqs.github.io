@@ -1,0 +1,1 @@
+- [Replit config replacement](replit-config-replacement.md) — use verified temp-file replacement for `.replit`; direct edits can be blocked.

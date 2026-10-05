@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isabellavsqs.github.io/sitemap.xml

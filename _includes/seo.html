@@ -1,0 +1,17 @@
+{% assign meta_description = page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 %}
+{% if page.url == "/" %}
+  {% assign meta_title = site.title | append: " — Consultant & IESE MBA Candidate" %}
+{% else %}
+  {% assign meta_title = page.title | append: " — " | append: site.title %}
+{% endif %}
+<title>{{ meta_title | escape }}</title>
+<meta name="description" content="{{ meta_description | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:title" content="{{ meta_title | escape }}">
+<meta property="og:description" content="{{ meta_description | escape }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ meta_title | escape }}">
+<meta name="twitter:description" content="{{ meta_description | escape }}">
