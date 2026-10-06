@@ -13,6 +13,8 @@ defaults:
       layout: default
 
 exclude:
+  - .agents
+  - .local
   - README.md
   - PLAN.md
   - attached_assets
