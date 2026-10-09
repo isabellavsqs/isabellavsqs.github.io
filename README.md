@@ -5,7 +5,7 @@ A static Jekyll site for the GitHub Pages user site `isabellavsqs.github.io`. Th
 ## Pages and content
 
 - `index.md` — Home
-- `about.md` — About
+- `about.md` — legacy About URL notice linking to Home (not in primary navigation)
 - `work-experience.md` — Work Experience
 - `contact.md` — Contact (LinkedIn only)
 - `_layouts/default.html` and `_includes/` — shared page structure and SEO metadata
