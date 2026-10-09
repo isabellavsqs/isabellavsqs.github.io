@@ -46,12 +46,8 @@ permalink: /
       <dd>Funding secured for a medical education company through a social-impact-linked loan.</dd>
     </div>
   </dl>
+  <p><strong>My path.</strong> I’m Brazilian, and I studied at a German school from kindergarten through high school. Moving between cultures and ways of learning made me curious about how people and institutions approach the same challenges differently. I studied Business Administration at the University of São Paulo and completed an exchange at Technische Universität Berlin. My work has since taken me through education, automotive, fintech, consulting, and international development. Across those settings, I’ve been drawn to practical strategy: understand what people need, find the levers that matter, and help turn a good idea into a way of working. I’m especially interested in how private-sector capabilities can contribute to more inclusive growth and social impact.</p>
+  <p><strong>Outside the office.</strong> Since university, I’ve volunteered as a math educator, mentored young women through Velejar, supported a refugee radio program in Germany, and offered informal financial coaching. These experiences keep me close to the everyday realities behind larger economic questions. When I’m not working or studying, I enjoy handball, artistic gymnastics, hiking, and dancing Forró. I also love the beach and the relaxed, welcoming feeling of being by the water.</p>
+  <p><strong>Education &amp; languages.</strong> I’m an MBA candidate at IESE Business School (2025–2027), earned a Bachelor of Business Administration from the University of São Paulo (2015–2019; GPA 8.6/10, top 7% of the class), and completed a full-scholarship exchange at Technische Universität Berlin in 2018. I speak Portuguese (native), English (C2), German (C1), and Spanish (B2).</p>
   <p class="section-action"><a class="text-link" href="{{ '/work-experience/' | relative_url }}">See the full experience <span aria-hidden="true">→</span></a></p>
-</section>
-
-<section class="closing-note" aria-labelledby="closing-title">
-  <p class="eyebrow">A little more</p>
-  <h2 id="closing-title">Curious about people, systems, and what can change.</h2>
-  <p>That curiosity has taken me from a German-school education in Brazil to study and work across countries, industries, and social-impact projects.</p>
-  <a class="text-link" href="{{ '/about/' | relative_url }}">Read more about me <span aria-hidden="true">→</span></a>
 </section>

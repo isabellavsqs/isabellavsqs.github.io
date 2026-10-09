@@ -100,16 +100,4 @@ permalink: /work-experience/
   </ul>
 </section>
 
-<section class="content-section" aria-labelledby="education-title">
-  <div class="section-heading">
-    <p class="eyebrow">Education</p>
-    <h2 id="education-title">Where I learned to frame the problem.</h2>
-  </div>
-  <ul class="plain-list">
-    <li><strong>IESE Business School</strong> — MBA candidate, 2025–2027</li>
-    <li><strong>University of São Paulo</strong> — Bachelor of Business Administration, 2015–2019; GPA 8.6/10, top 7% of class</li>
-    <li><strong>Technische Universität Berlin</strong> — exchange program, 2018; full scholarship</li>
-  </ul>
-</section>
-
 <p class="section-action"><a class="text-link" href="{{ '/contact/' | relative_url }}">Connect with me on LinkedIn <span aria-hidden="true">→</span></a></p>
