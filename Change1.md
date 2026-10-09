@@ -10,7 +10,7 @@ The site currently uses a warm paper background, dark green text and links, mute
 
 ## Planned changes
 
-- Introduce a restrained but more expressive palette: retain a warm neutral base and add a small number of stronger, coordinated accent colors for headings, labels, links, and selected panels.
+- Introduce a restrained but more expressive palette: retain a warm neutral base and add a small number of stronger, coordinated accent colors for headings, labels, links, and selected panels (especially green, blue and orange).
 - Create clearer typographic contrast between the hero, page titles, section headings, labels, metrics, and supporting text. Use size, weight, and accent color to guide attention without making the pages busy.
 - Add subtle interaction states to navigation, links, impact figures, and relevant content panels. Keep motion brief and restrained, with clear hover, keyboard-focus, and active states.
 - Preserve semantic HTML, keyboard access, visible focus indicators, and sufficient text/background contrast. Respect reduced-motion preferences.
@@ -32,4 +32,4 @@ The site currently uses a warm paper background, dark green text and links, mute
 3. Check Home, About, Work Experience, and Contact at 375px and 1280px.
 4. Re-run the Jekyll build, link checks, and Lighthouse checks.
 
-**Status:** Plan documented before any visual source changes. The site styles and page markup have not been changed for this update.
+**Status:** Implemented and verified. All four pages were checked at 375px and 1280px; the Jekyll build, doctor, route and internal-link checks, and tested contrast pairs pass. Mobile and desktop Lighthouse scores: 100 Performance, Accessibility, and Best Practices. SEO scored 66 because the Replit preview adds an `X-Robots-Tag: noindex` header; this is not a site-level directive.

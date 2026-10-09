@@ -1,1 +1,2 @@
 - [Replit config replacement](replit-config-replacement.md) — use verified temp-file replacement for `.replit`; direct edits can be blocked.
+- [Lighthouse CLI in shells](lighthouse-noninteractive.md) — disable anonymous error reporting to avoid a first-run prompt crash without an interactive terminal.
